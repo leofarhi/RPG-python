@@ -15,4 +15,3 @@ with open(rep+"entité"+".txt", "r") as fic:
     i=fic.readline()
     eval(compile("entité_element="+str(i), '<string>', 'exec'))
     fic.close()
-"""
