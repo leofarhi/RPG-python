@@ -21,9 +21,9 @@ def écrit(code,name):
     with open(rep+"//"+str(name)+".py", "w",encoding='utf-8', errors='ignore') as fic:
         fic.write(code)
         fic.close()
-def game_refress(liste):
+def game_refress(liste, x, y):
 
     for i in liste:
         eval("surface.blit("+str(i[0])+", ("+str(i[1]+x)+","+str(i[2]+y)+"))")
         
-game_refress(entité_element)
+game_refress(entité_element, x, y)
