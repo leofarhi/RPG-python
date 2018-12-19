@@ -1,5 +1,3 @@
 def script(x, y, posX, posY, liste):
-  print(liste)
-  liste[2]=+1
-  print(liste)
+  liste[2]=int(liste[2])+1
   return x, y, posX, posY, liste
