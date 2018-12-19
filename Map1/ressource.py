@@ -11,7 +11,8 @@ import texture
 import entité
 rep=os.getcwd()+"//lib//"
 sys.path.insert(0, rep)
-
+x=0
+y=0
 with open(rep+"entité"+".txt", "r") as fic:
     i=fic.readline()
     eval(compile("entité_element="+str(i), '<string>', 'exec'))
