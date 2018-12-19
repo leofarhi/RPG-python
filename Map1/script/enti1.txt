@@ -1,8 +1,3 @@
 def script(x, y, posX, posY, liste):
-  print("coucou")
-  print("yes")
-  a=5
-  b=6
-  c=a+b
-  print(c)
+  
   return x, y, posX, posY, liste
