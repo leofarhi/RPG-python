@@ -1,5 +1,5 @@
 def script(x, y, posX, posY, liste, frame_sys, i, var_game, _exe_eval, key):
   _exe_eval="music=music9_bgm"
   if int(posX)==int(liste[2]) and int(posY)==int(liste[3]-48):
-    _exe_eval="map_url='MapBonus'\nfenetre=-1\nbreak"
+    _exe_eval="map_url='MapBonus'\nfenetre=-1"
   return x, y, posX, posY, liste, frame_sys, _exe_eval, var_game
