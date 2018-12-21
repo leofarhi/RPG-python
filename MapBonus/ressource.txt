@@ -1,1 +1,1 @@
-[["enti1","Map1/script/enti1.txt"]]
+[["enti1","MapBonus/script/enti1.txt"]]
