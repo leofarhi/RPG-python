@@ -1,1 +1,1 @@
-[["enti1","Map1/script/enti1.txt"],["none","Map1/script/none.txt"]]
+[["enti1","Map1/script/enti1.txt"],["none","Map1/script/none.txt"],["tp","Map1/script/tp.txt"]]
