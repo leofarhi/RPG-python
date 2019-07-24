@@ -1,1 +1,1 @@
-SpawnActor:["Map2",10,0]
+SpawnActor:["Map1",0,0]
