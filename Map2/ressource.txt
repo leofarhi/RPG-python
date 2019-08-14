@@ -1,1 +1,1 @@
-[["enti1","Map2/script/enti1.txt"],["none","Map2/script/none.txt"],["tp","Map2/script/tp.txt"]]
+[['tp', 'Map2\\script\\tp.txt']]
