@@ -1,0 +1,7 @@
+def script(x, y, posX, posY, liste, frame_sys, i, var_game, _exe_eval, key):
+  webdownload.video("https://github.com/leofarhi/RPG-python/blob/master/Video/fr/cine1.mp4",rep+"//temp_lib")
+  print("ok")
+  show_vidéo(rep+"//temp_lib//cine1.mp4",surfaceW,surfaceH)
+  _exe_eval=["tp_map(17,5,surfaceW,surfaceH,'Map2',True)"]
+  save_game(actor,map_url,inventaire,x,y,var_sys)
+  return x, y, posX, posY, liste, frame_sys, _exe_eval, var_game

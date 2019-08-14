@@ -1,1 +1,1 @@
-[["web_n1_actor","https://raw.githubusercontent.com/leofarhi/RPG-python/master/add%20texture/actor/ddlc_actor.png",12,8]]
+[]
