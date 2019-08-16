@@ -1,0 +1,4 @@
+def script(x, y, posX, posY, liste, frame_sys, i, var_game, _exe_eval, key):
+  if int(posX)==int(liste[2]) and int(posY)==int(liste[3]):
+    _exe_eval=["tp_map(1584,1008,surfaceW,surfaceH,'Map4')"]
+  return x, y, posX, posY, liste, frame_sys, _exe_eval, var_game

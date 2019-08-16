@@ -1,1 +1,1 @@
-[['home1', 'Map3\\script\\home1.txt']]
+[['home1', 'Map3\\script\\home1.txt'], ['tp', 'Map3\\script\\tp.txt']]
