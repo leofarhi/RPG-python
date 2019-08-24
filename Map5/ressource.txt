@@ -1,0 +1,1 @@
+[['tp', 'Map5/script/tp.txt']]
