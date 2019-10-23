@@ -1,7 +1,9 @@
 def script(x, y, posX, posY, liste, frame_sys, i, var_game, _exe_eval, key):
+  global entité_block
+  entité_block.append(['Map2', 'n13_entité76', '0~#coffre', 576.0, 192.0, 1, True, [[[10, ['n1_item1663', 'life', 6, 3, 0]], [12, ['n1_item699', 'money', 4, 1, 0]], [15, ['n1_item699', 'money', 4, 1, 0]], [20, ['n1_item699', 'money', 5, 1, 0]], [22, ['n1_item699', 'money', 2, 1, 0]], [25, ['n1_item1663', 'life', 5, 3, 0]], [27, ['n1_item699', 'money', 9, 1, 0]], [32, ['n1_item1663', 'life', 3, 3, 0]]], None, '1376', False]])
+  entité_block.append(['Map3', 'n13_entité76', '1~#coffre', 2112.0, 720.0, 1, True, [[[12, ['n1_item699', 'money', 10, 1, 0]], [13, ['n1_item1663', 'life', 5, 3, 0]], [14, ['n1_item699', 'money', 10, 1, 0]], [22, ['n1_item699', 'money', 50, 1, 0]]], None, '1376', False]])
   webdownload.video("https://github.com/leofarhi/RPG-python/blob/master/Video/fr/cine1.mp4",rep+"//temp_lib")
   print("ok")
   show_vidéo(rep+"//temp_lib//cine1.mp4",surfaceW,surfaceH)
   _exe_eval=["tp_map(17,5,surfaceW,surfaceH,'Map2',True)"]
-  save_game(actor,map_url,inventaire,x,y,var_sys)
   return x, y, posX, posY, liste, frame_sys, _exe_eval, var_game
