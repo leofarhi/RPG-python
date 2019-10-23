@@ -1,1 +1,1 @@
-[['tp', 'Map5/script/tp.txt']]
+[['tp', 'Map5/script/tp.txt'], ['tpmp7', 'Map5/script/tpmp7.txt']]
