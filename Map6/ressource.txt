@@ -1,1 +1,1 @@
-[]
+[['tp1', 'Map6/script/tp1.txt'], ['tp2', 'Map6/script/tp2.txt'], ['tp3', 'Map6/script/tp3.txt'], ['tp4', 'Map6/script/tp4.txt'], ['music', 'Map6/script/music.txt']]

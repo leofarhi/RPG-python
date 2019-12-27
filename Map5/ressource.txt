@@ -1,1 +1,1 @@
-[['tp', 'Map5/script/tp.txt'], ['tpmp7', 'Map5/script/tpmp7.txt']]
+[['tp', 'Map5/script/tp.txt'], ['tpmp7', 'Map5/script/tpmp7.txt'], ['tp6', 'Map5/script/tp6.txt'], ['tp6_1', 'Map5/script/tp6_1.txt'], ['tp6_2', 'Map5/script/tp6_2.txt'], ['tp6_3', 'Map5/script/tp6_3.txt'], ['tp6_4', 'Map5/script/tp6_4.txt'], ['music', 'Map5/script/music.txt']]

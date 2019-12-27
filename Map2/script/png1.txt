@@ -2,4 +2,5 @@ def script(x, y, posX, posY, liste, frame_sys, i, var_game, _exe_eval, key):
     global var_sys
     if int(posX)==int(liste[2]) and int(posY)==int(liste[3]):
       _exe_eval=['var_talk=[["texte","texte2"],0,0, 25, blanc, "calibri.ttf", 3]']
+      liste[5]=None
     return x, y, posX, posY, liste, frame_sys, _exe_eval, var_game

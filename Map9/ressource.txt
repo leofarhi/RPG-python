@@ -1,1 +1,1 @@
-[]
+[['tp', 'Map9/script/tp.txt']]

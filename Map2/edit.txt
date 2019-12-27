@@ -1,1 +1,1 @@
-[['tp.txt', 'tp', 'imp_tp.py', ['22', '21', 'Map3']], ['png1.txt', 'png1', 'imp_talk.py', ['"texte","texte2"', '3', '', '']]]
+[['tp.txt', 'tp', 'imp_tp.py', ['22', '21', 'Map3']], ['png1.txt', 'png1', 'imp_talk.py', ['"texte","texte2"', '3', '', '']], ['music.txt', 'music', 'imp_music.py', ['music17_bgm']]]

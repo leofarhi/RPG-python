@@ -1,0 +1,3 @@
+def script(x, y, posX, posY, liste, frame_sys, i, var_game, _exe_eval, key):
+  _exe_eval=['music=music18_bgm']
+  return x, y, posX, posY, liste, frame_sys, _exe_eval, var_game
